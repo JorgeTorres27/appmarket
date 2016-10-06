@@ -42,6 +42,7 @@
             <li class="active"><a href="{{url('dashboard')}}">Escritorio</a></li>
             <li><a href="{{url('product')}}">Productos</a></li>
             <li><a href="#">Marcas</a></li>
+            <li><a href="#">Otros</a></li>
           </ul>
 
         </div><!--/.nav-collapse -->
